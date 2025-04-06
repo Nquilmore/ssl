@@ -1,6 +1,0 @@
-Microsoft (R) Incremental Linker Version 14.43.34809.0
-Copyright (C) Microsoft Corporation.  All rights reserved.
-
-/out:HelloWord.exe 
-HelloWord.exe 
-LINK : fatal error LNK1149: coincidencia entre el nombre del archivo de salida y el de entrada 'C:\Users\Nicole\Desktop\Sintaxis\ssl\HelloWord.exe'
