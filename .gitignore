@@ -58,3 +58,14 @@ ssl/
 # Visual Studio Code settings
 .vscode/
 .settings/
+
+
+# Ignorar carpetas de build
+ssl/x64/Debug/
+x64/Debug/
+
+# Ignorar archivos de solución y proyecto de Visual Studio
+ssl.sln
+ssl.vcxproj
+ssl.vcxproj.filters
+ssl.vcxproj.user
